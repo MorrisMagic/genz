@@ -1,0 +1,5 @@
+MONGO_URI=mongodb+srv://youssefhabbachi10:F9YmpsemyDbZ3a1t@cluster0.2akqb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+CLOUDINARY_CLOUD_NAME=dns6ikguw
+CLOUDINARY_API_KEY=874299972614659
+CLOUDINARY_API_SECRET=Xl1nZZfDcyJYpzv2Otdu6wCAZC0
+JWT_SECRET=YIUDFHJKDFHDFHDKJGDI54
